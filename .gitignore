@@ -1,0 +1,6 @@
+node_modules/
+config.json
+vouches.json
+.env
+*.log
+

@@ -1,0 +1,17 @@
+{
+  "name": "vouch-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot for managing vouches with role-based access control",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["discord", "bot", "vouch"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  }
+}
+
